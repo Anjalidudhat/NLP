@@ -16,3 +16,4 @@ pandas
 nltk
 numpy
 matplotlib
+seaborn
