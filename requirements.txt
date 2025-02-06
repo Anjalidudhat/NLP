@@ -1,0 +1,17 @@
+# pickle5
+# streamlit
+# regex
+# nltk
+# numpy
+# pandas
+# stop-words 
+# PyStemmer
+# simplemma
+# keyphrase-vectorizers
+# os-sys
+
+streamlit
+scikit-learn
+pandas
+nltk
+numpy
